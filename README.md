@@ -27,5 +27,5 @@
   <ol>
     <li>npx cypress open</li>
     <li>na nova janela clique em um dos arquivos de teste disponível</li>
-     <li>Deixei a mágica acontecer 🙂</li>
+     <li>Deixe a mágica acontecer 🙂</li>
   </ol>
